@@ -1,0 +1,74 @@
+18:04:04.213 [main] INFO  testCases.TC001_Login - Login ended.....
+18:04:05.695 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@396e6d9: 78 ms
+18:04:05.767 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@240f6c41: 72 ms
+18:04:05.768 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3659d7b1: 0 ms
+18:04:05.820 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4016ccc1: 31 ms
+18:04:05.827 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3e84111a: 7 ms
+18:04:05.834 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7ea899a9: 7 ms
+18:04:05.834 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2776015d: 0 ms
+18:20:51.478 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\inetbanking\parallelcbtesting.xml
+
+18:21:17.686 [TestNG-tests-1] INFO  testCases.TC001_Login - Testcase execution started.....
+18:21:17.687 [TestNG-tests-1] INFO  testCases.TC001_Login - Login started.....
+18:21:19.273 [TestNG-tests-1] INFO  testCases.TC001_Login - Login ended.....
+18:22:41.516 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\inetbanking\parallelcbtesting.xml
+
+18:22:49.404 [TestNG-tests-1] INFO  testCases.TC001_Login - Testcase execution started.....
+18:22:49.405 [TestNG-tests-1] INFO  testCases.TC001_Login - Login started.....
+18:22:50.778 [TestNG-tests-1] INFO  testCases.TC001_Login - Login ended.....
+18:23:10.116 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\inetbanking\parallelcbtesting.xml
+
+18:23:24.536 [TestNG-tests-2] INFO  testCases.TC001_Login - Testcase execution started.....
+18:23:24.539 [TestNG-tests-2] INFO  testCases.TC001_Login - Login started.....
+18:23:24.544 [TestNG-tests-1] INFO  testCases.TC001_Login - Testcase execution started.....
+18:23:24.544 [TestNG-tests-1] INFO  testCases.TC001_Login - Login started.....
+18:23:26.151 [TestNG-tests-1] INFO  testCases.TC001_Login - Login ended.....
+18:23:26.169 [TestNG-tests-2] INFO  testCases.TC001_Login - Login ended.....
+18:23:36.376 [TestNG-tests-3] INFO  testCases.TC001_Login - Testcase execution started.....
+18:23:36.379 [TestNG-tests-3] INFO  testCases.TC001_Login - Login started.....
+18:23:37.991 [TestNG-tests-3] INFO  testCases.TC001_Login - Login ended.....
+18:40:32.333 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\inetbanking\Master.xml
+
+18:41:54.006 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\inetbanking\Master.xml
+
+18:42:04.214 [main] INFO  testCases.TC001_Login - Testcase execution started.....
+18:42:04.214 [main] INFO  testCases.TC001_Login - Login started.....
+18:42:07.073 [main] INFO  testCases.TC001_Login - Login ended.....
+19:24:46.671 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\inetbanking\Master.xml
+
+19:26:48.897 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\inetbanking\Master.xml
+
+19:27:39.556 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\inetbanking\Master.xml
+
+19:27:46.855 [main] INFO  testCases.TC001_LoginDDT - user name provided
+19:27:46.934 [main] INFO  testCases.TC001_LoginDDT - password provided
+19:30:31.410 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\inetbanking\Master.xml
+
+19:30:37.343 [main] INFO  testCases.TC001_LoginDDT - user name provided
+19:30:37.414 [main] INFO  testCases.TC001_LoginDDT - password provided
+19:34:53.529 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\inetbanking\Master.xml
+
+19:34:59.481 [main] INFO  testCases.TC001_LoginDDT - user name provided
+19:34:59.553 [main] INFO  testCases.TC001_LoginDDT - password provided
+19:38:07.389 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\inetbanking\Master.xml
+
+19:38:14.495 [main] INFO  testCases.TC001_LoginDDT - user name provided
+19:38:14.581 [main] INFO  testCases.TC001_LoginDDT - password provided
+19:38:19.976 [main] INFO  testCases.TC001_LoginDDT - user name provided
+19:38:20.067 [main] INFO  testCases.TC001_LoginDDT - password provided
+19:38:24.835 [main] INFO  testCases.TC001_LoginDDT - user name provided
+19:38:24.911 [main] INFO  testCases.TC001_LoginDDT - password provided
+19:38:29.744 [main] INFO  testCases.TC001_LoginDDT - user name provided
+19:38:29.837 [main] INFO  testCases.TC001_LoginDDT - password provided
+19:38:33.255 [main] INFO  testCases.TC001_LoginDDT - Login passed

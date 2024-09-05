@@ -1,0 +1,81 @@
+19:40:10.957 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\inetbanking\Master.xml
+
+19:40:23.655 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\inetbanking\Master.xml
+
+19:40:29.479 [main] INFO  testCases.TC001_LoginDDT - user name provided
+19:40:29.550 [main] INFO  testCases.TC001_LoginDDT - password provided
+19:40:34.331 [main] INFO  testCases.TC001_LoginDDT - user name provided
+19:40:34.398 [main] INFO  testCases.TC001_LoginDDT - password provided
+19:40:39.126 [main] INFO  testCases.TC001_LoginDDT - user name provided
+19:40:39.196 [main] INFO  testCases.TC001_LoginDDT - password provided
+19:40:43.935 [main] INFO  testCases.TC001_LoginDDT - user name provided
+19:40:44.014 [main] INFO  testCases.TC001_LoginDDT - password provided
+19:40:48.126 [main] INFO  testCases.TC001_LoginDDT - Login passed
+19:40:53.639 [main] INFO  testCases.TC001_LoginDDT - user name provided
+19:40:53.710 [main] INFO  testCases.TC001_LoginDDT - password provided
+19:41:57.186 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\inetbanking\Master.xml
+
+19:42:07.190 [main] INFO  testCases.TC001_LoginDDT - user name provided
+19:42:07.263 [main] INFO  testCases.TC001_LoginDDT - password provided
+19:48:34.991 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\inetbanking\Master.xml
+
+19:48:42.955 [main] INFO  testCases.TC001_LoginDDT - user name provided
+19:48:43.037 [main] INFO  testCases.TC001_LoginDDT - password provided
+19:55:43.706 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\inetbanking\Master.xml
+
+19:55:51.588 [main] INFO  testCases.TC001_LoginDDT - user name provided
+19:55:51.696 [main] INFO  testCases.TC001_LoginDDT - password provided
+19:58:40.337 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\inetbanking\Master.xml
+
+19:58:50.552 [main] INFO  testCases.TC001_LoginDDT - user name provided
+19:58:50.646 [main] INFO  testCases.TC001_LoginDDT - password provided
+19:58:55.519 [main] INFO  testCases.TC001_LoginDDT - user name provided
+19:58:55.612 [main] INFO  testCases.TC001_LoginDDT - password provided
+19:59:00.323 [main] INFO  testCases.TC001_LoginDDT - user name provided
+19:59:00.394 [main] INFO  testCases.TC001_LoginDDT - password provided
+19:59:05.072 [main] INFO  testCases.TC001_LoginDDT - user name provided
+19:59:05.145 [main] INFO  testCases.TC001_LoginDDT - password provided
+19:59:08.550 [main] INFO  testCases.TC001_LoginDDT - Login passed
+19:59:14.143 [main] INFO  testCases.TC001_LoginDDT - user name provided
+19:59:14.231 [main] INFO  testCases.TC001_LoginDDT - password provided
+20:06:29.546 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\inetbanking\Master.xml
+
+20:06:37.818 [main] INFO  testCases.TC001_LoginDDT - user name provided
+20:06:37.909 [main] INFO  testCases.TC001_LoginDDT - password provided
+20:11:42.221 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\inetbanking\Master.xml
+
+20:11:48.375 [main] INFO  testCases.TC001_Login - Testcase execution started.....
+20:11:48.375 [main] INFO  testCases.TC001_Login - Login started.....
+20:11:50.215 [main] INFO  testCases.TC001_Login - Login ended.....
+20:11:56.408 [main] INFO  testCases.TC001_LoginDDT - user name provided
+20:11:56.481 [main] INFO  testCases.TC001_LoginDDT - password provided
+20:18:14.753 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\inetbanking\Master.xml
+
+20:18:19.529 [main] INFO  testCases.TC001_Login - Testcase execution started.....
+20:18:19.529 [main] INFO  testCases.TC001_Login - Login started.....
+20:18:20.905 [main] INFO  testCases.TC001_Login - Login ended.....
+20:18:26.700 [main] INFO  testCases.TC001_LoginDDT - user name provided
+20:18:26.776 [main] INFO  testCases.TC001_LoginDDT - password provided
+20:18:31.658 [main] INFO  testCases.TC001_LoginDDT - user name provided
+20:18:31.728 [main] INFO  testCases.TC001_LoginDDT - password provided
+20:18:36.543 [main] INFO  testCases.TC001_LoginDDT - user name provided
+20:18:36.619 [main] INFO  testCases.TC001_LoginDDT - password provided
+20:18:41.469 [main] INFO  testCases.TC001_LoginDDT - user name provided
+20:18:41.543 [main] INFO  testCases.TC001_LoginDDT - password provided
+20:18:44.946 [main] INFO  testCases.TC001_LoginDDT - Login passed
+20:18:50.514 [main] INFO  testCases.TC001_LoginDDT - user name provided
+20:18:50.584 [main] INFO  testCases.TC001_LoginDDT - password provided
+21:10:31.622 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\inetbanking\Master.xml
+
+21:10:45.584 [main] INFO  testCases.TC002_NewCustomerTest - validation started....
+21:10:45.597 [main] INFO  testCases.TC002_NewCustomerTest - test case failed....
