@@ -23,11 +23,11 @@ public class TC002_NewCustomerTest extends Baseclass
 	ap.clickNC();
 	ap.setName(randomString().toUpperCase());
 	ap.setGenderF();
-	ap.setDob("06", "Oct", "2000");
-	ap.setAdd("new building highway");
-	ap.setCity("Cbe");
+	ap.setDob("24", "Oct", "1999");
+	ap.setAdd("highway");
+	ap.setCity("Chennai");
 	ap.setState("Tamilnadu");
-	ap.setPin("637408");
+	ap.setPin("567457");
 	ap.setNum(randomNumber());
 	ap.setEmail(randomString()+"@gmail.com");
 	ap.setPass("kaviya");

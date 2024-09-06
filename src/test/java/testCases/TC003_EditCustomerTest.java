@@ -21,13 +21,13 @@ public class TC003_EditCustomerTest extends Baseclass {
 		
 		EditCustomerPage ep = new EditCustomerPage(driver);
 		ep.clickEditc();
-		ep.enterCustId("11455");
+		ep.enterCustId("59342");
 		ep.clickSubmit();
 		
 		AddNewCustomer ap = new AddNewCustomer(driver);
-
-		ap.setCity("Chennai");
-		ap.setPin("715278");
+		
+		ap.setCity("Salem");
+		ap.setPin("642789");
 		ap.setNum(randomNumber());
 		
 		ap.clickSubmit();

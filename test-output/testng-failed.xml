@@ -8,13 +8,20 @@
     <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC004_DeleteCustomerTest">
+      <class name="testCases.TC002_NewCustomerTest">
+        <methods>
+          <include name="setup"/>
+          <include name="addNew"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testCases.TC002_NewCustomerTest -->
+      <class name="testCases.TC001_LoginDDT">
         <methods>
           <include name="setup"/>
           <include name="tearDown"/>
-          <include name="deletec"/>
+          <include name="loginDDT" invocation-numbers="0 1 2 4"/>
         </methods>
-      </class> <!-- testCases.TC004_DeleteCustomerTest -->
+      </class> <!-- testCases.TC001_LoginDDT -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

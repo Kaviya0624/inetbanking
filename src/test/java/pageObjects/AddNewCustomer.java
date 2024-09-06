@@ -18,7 +18,7 @@ public class AddNewCustomer extends BasePage
 	@FindBy(xpath="//input[@name='name']")
 	WebElement CName;
 	
-	@FindBy(xpath="//tbody/tr[5]/td[2]/input[2]")
+	@FindBy(xpath="//input[@value='f']")
 	WebElement GenderF;
 	
 	@FindBy(xpath="//input[@value='m']")
@@ -65,13 +65,13 @@ public class AddNewCustomer extends BasePage
 	
 	public void setGenderF()
 	{
-		GenderF.clear();
+		
 		GenderF.click();
 	}
 	
 	public void setGenderM()
 	{
-		GenderM.clear();
+		
 		GenderM.click();
 	}
 	
