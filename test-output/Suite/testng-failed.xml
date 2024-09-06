@@ -8,13 +8,13 @@
     <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC002_NewCustomerTest">
+      <class name="testCases.TC004_DeleteCustomerTest">
         <methods>
           <include name="setup"/>
-          <include name="addNew"/>
           <include name="tearDown"/>
+          <include name="deletec"/>
         </methods>
-      </class> <!-- testCases.TC002_NewCustomerTest -->
+      </class> <!-- testCases.TC004_DeleteCustomerTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

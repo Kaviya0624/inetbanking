@@ -22,7 +22,7 @@ public class TC002_NewCustomerTest extends Baseclass
 	AddNewCustomer ap = new AddNewCustomer(driver);
 	ap.clickNC();
 	ap.setName(randomString().toUpperCase());
-	ap.setGender();
+	ap.setGenderF();
 	ap.setDob("06", "Oct", "2000");
 	ap.setAdd("new building highway");
 	ap.setCity("Cbe");

@@ -19,7 +19,10 @@ public class AddNewCustomer extends BasePage
 	WebElement CName;
 	
 	@FindBy(xpath="//tbody/tr[5]/td[2]/input[2]")
-	WebElement Gender;
+	WebElement GenderF;
+	
+	@FindBy(xpath="//input[@value='m']")
+	WebElement GenderM;
 	
 	@FindBy(xpath="//input[@id='dob']")
 	WebElement Dob;
@@ -56,16 +59,26 @@ public class AddNewCustomer extends BasePage
 	
 	public void setName(String name)
 	{
+		CName.clear();
 		CName.sendKeys(name);
 	}
 	
-	public void setGender()
+	public void setGenderF()
 	{
-		Gender.click();
+		GenderF.clear();
+		GenderF.click();
+	}
+	
+	public void setGenderM()
+	{
+		GenderM.clear();
+		GenderM.click();
 	}
 	
 	public void setDob(String dd,String mm,String yy)
 	{
+		
+		Dob.clear();
 		Dob.sendKeys(dd);
 		Dob.sendKeys(mm);
 		Dob.sendKeys(yy);
@@ -78,31 +91,37 @@ public class AddNewCustomer extends BasePage
 	
 	public void setCity(String city)
 	{
+		City.clear();
 		City.sendKeys(city);
 	}
 	
 	public void setState(String state)
 	{
+		State.clear();
 		State.sendKeys(state);
 	}
 	
 	public void setPin(String pin)
 	{
+		Pin.clear();
 		Pin.sendKeys(pin);
 	}
 	
 	public void setNum(String num)
 	{
+		Telenumber.clear();
 		Telenumber.sendKeys(num);
 	}
 	
 	public void setEmail(String email)
 	{
+		Email.clear();
 		Email.sendKeys(email);
 	}
 	
 	public void setPass(String pass)
 	{
+		Password.clear();
 		Password.sendKeys(pass);
 	}
 	
@@ -110,4 +129,9 @@ public class AddNewCustomer extends BasePage
 	{
 		Submit.click();
 	}
+	
+	
+
+
+	
 }
