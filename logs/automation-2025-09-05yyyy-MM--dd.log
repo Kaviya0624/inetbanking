@@ -1,0 +1,59 @@
+15:23:27.647 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:23:27.655 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:23:27.655 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:23:27.658 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:23:27.658 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:23:27.659 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:23:27.659 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:23:27.660 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:23:27.660 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:23:27.660 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:23:27.661 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:23:27.662 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+15:23:27.662 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:23:27.663 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:23:27.664 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:23:27.664 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:23:27.664 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:23:27.673 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\Temp\testng-eclipse-1002646095\testng-customsuite.xml
+
+15:23:27.699 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+15:23:28.029 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@5149f008: 69 ms
+15:23:28.113 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@d816dde: 84 ms
+15:23:28.129 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5305c37d: 15 ms
+15:23:28.149 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2d35442b: 19 ms
+15:23:28.163 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@238b521e: 14 ms
+15:23:28.171 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2d8f2f3a: 7 ms
+15:23:28.172 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2024293c: 1 ms
+15:23:48.708 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\inetbanking\Master.xml
+
+15:30:41.033 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\inetbanking\Master.xml
+
+15:30:51.459 [main] INFO  testCases.TC001_Login - Testcase execution started.....
+15:30:51.459 [main] INFO  testCases.TC001_Login - Login started.....
+15:30:52.981 [main] INFO  testCases.TC001_Login - Login ended.....
+15:31:00.607 [main] INFO  testCases.TC001_LoginDDT - user name provided
+15:31:00.677 [main] INFO  testCases.TC001_LoginDDT - password provided
+15:31:07.218 [main] INFO  testCases.TC001_LoginDDT - user name provided
+15:31:07.319 [main] INFO  testCases.TC001_LoginDDT - password provided
+15:31:12.676 [main] INFO  testCases.TC001_LoginDDT - user name provided
+15:31:12.756 [main] INFO  testCases.TC001_LoginDDT - password provided
+15:31:18.115 [main] INFO  testCases.TC001_LoginDDT - user name provided
+15:31:18.191 [main] INFO  testCases.TC001_LoginDDT - password provided
+15:31:21.611 [main] INFO  testCases.TC001_LoginDDT - Login passed
+15:31:27.939 [main] INFO  testCases.TC001_LoginDDT - user name provided
+15:31:28.015 [main] INFO  testCases.TC001_LoginDDT - password provided
+15:31:49.172 [main] INFO  testCases.TC002_NewCustomerTest - validation started....
+18:52:27.697 [main] INFO  testCases.TC001_Login - Testcase execution started.....
+18:52:27.704 [main] INFO  testCases.TC001_Login - Login started.....
+18:52:29.818 [main] INFO  testCases.TC001_Login - Login ended.....
+18:52:40.904 [main] INFO  testCases.TC001_LoginDDT - user name provided
+18:52:40.991 [main] INFO  testCases.TC001_LoginDDT - password provided
+18:52:46.463 [main] INFO  testCases.TC001_LoginDDT - user name provided
+18:52:46.537 [main] INFO  testCases.TC001_LoginDDT - password provided
+22:39:34.626 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\inetbanking\Master.xml
+
